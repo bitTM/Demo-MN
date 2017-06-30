@@ -4,7 +4,7 @@ THIS_DIR=$(cd $(dirname $0); pwd)
 cd $THIS_DIR
 
 install() {
-	    cd tg
+	        cd tg
 		sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
 		sudo apt-get install g++-4.7 -y c++-4.7 -y
 		sudo apt-get update
@@ -53,12 +53,12 @@ function logo_play() {
 
 function beyondteam() {
 	echo -e "\e[0m"
-	green "     >>>>                       We Are Not Attacker                             "
-	green "     >>>>                       We Are Not Alliance                             "
-	white "     >>>>                       We Are Programmer                               "
-	white "     >>>>                       We Are The Best                                 "
-	red   "     >>>>                       We Are Family                                   "
-	red   "     >>>>                       @BeyondTeam                                     "
+	green "     -------------------------> Haram Ast :|                                 "
+	green "     -------------------------> Haram Ast :|                                 "
+	green "     -------------------------> Haram Ast :|                                 "
+	green "     -------------------------> Haram Ast :|                                 "
+	green "     -------------------------> Created By Mr.Hadi (@MisterHadi)             "
+	green "     -------------------------> @Telebit                                     "
 	echo -e "\e[0m"
 }
 
